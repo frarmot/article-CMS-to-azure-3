@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'fam-cmsproject-webapp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_3e42e56b72044b8096f2356021554b82 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_4fdaedec7295446ea0db787cb2ea0302 }}
